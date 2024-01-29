@@ -1,6 +1,6 @@
 [<img src="https://mholt.github.io/json-to-go/resources/images/json-to-go.png" alt="JSON-to-Go converts JSON to a Go struct"></a>](https://mholt.github.io/json-to-go)
 
-Translates JSON into a Go type definition. [Check it out!](http://mholt.github.io/json-to-go)
+Translates JSON into a Go type definition. Check it out by clicking [Here](http://mholt.github.io/json-to-go)
 
 This is a sister tool to [curl-to-Go](https://mholt.github.io/curl-to-go), which converts curl commands to Go code.
 
@@ -15,6 +15,6 @@ Contributions are welcome! Open a pull request to fix a bug, or open an issue to
 
 ### Credits
 
-JSON-to-Go is brought to you by Matt Holt ([mholt6](https://twitter.com/mholt6)).
+JSON-to-Go is brought to you by [Matt Holt](https://twitter.com/mholt6).
 
 The Go Gopher is originally by Renee French. This artwork is an adaptation.
